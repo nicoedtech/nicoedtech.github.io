@@ -169,8 +169,8 @@ body {
 }
 .btn-secondary,
 .btn-secondary:active {
-  background-color: #149dcc !important;
-  border-color: #149dcc !important;
+  background-color: #57418d !important;
+  border-color: #57418d !important;
   color: #ffffff !important;
 }
 .btn-secondary:hover,
@@ -178,14 +178,14 @@ body {
 .btn-secondary.focus,
 .btn-secondary.active {
   color: #ffffff !important;
-  background-color: #0d6786 !important;
-  border-color: #0d6786 !important;
+  background-color: #372959 !important;
+  border-color: #372959 !important;
 }
 .btn-secondary.disabled,
 .btn-secondary:disabled {
   color: #ffffff !important;
-  background-color: #0d6786 !important;
-  border-color: #0d6786 !important;
+  background-color: #372959 !important;
+  border-color: #372959 !important;
 }
 .btn-info,
 .btn-info:active {
@@ -333,22 +333,22 @@ body {
 .btn-secondary-outline,
 .btn-secondary-outline:active {
   background: none;
-  border-color: #0b566f;
-  color: #0b566f;
+  border-color: #2c2147;
+  color: #2c2147;
 }
 .btn-secondary-outline:hover,
 .btn-secondary-outline:focus,
 .btn-secondary-outline.focus,
 .btn-secondary-outline.active {
   color: #ffffff;
-  background-color: #149dcc;
-  border-color: #149dcc;
+  background-color: #57418d;
+  border-color: #57418d;
 }
 .btn-secondary-outline.disabled,
 .btn-secondary-outline:disabled {
   color: #ffffff !important;
-  background-color: #149dcc !important;
-  border-color: #149dcc !important;
+  background-color: #57418d !important;
+  border-color: #57418d !important;
 }
 .btn-info-outline,
 .btn-info-outline:active {
@@ -468,7 +468,7 @@ body {
   color: #149dcc !important;
 }
 .text-secondary {
-  color: #149dcc !important;
+  color: #57418d !important;
 }
 .text-success {
   color: #f7ed4a !important;
@@ -494,7 +494,7 @@ a.text-primary:focus {
 }
 a.text-secondary:hover,
 a.text-secondary:focus {
-  color: #0b566f !important;
+  color: #2c2147 !important;
 }
 a.text-success:hover,
 a.text-success:focus {
@@ -1423,7 +1423,7 @@ body {
 .cid-rnFPUzx2jD .card-img {
   border-radius: 0;
   padding: 2rem 2rem 0 2rem;
-  background-color: #149dcc;
+  background-color: #57418d;
 }
 .cid-rnFPUzx2jD .card-img span {
   font-size: 100px;
@@ -1431,8 +1431,8 @@ body {
 }
 .cid-rnFPUzx2jD .card-box {
   padding-bottom: 2rem;
-  background-color: #149dcc;
-  background: linear-gradient(#149dcc, transparent);
+  background-color: #57418d;
+  background: linear-gradient(#57418d, transparent);
 }
 .cid-rnFPUzx2jD .card-box .card-title {
   margin: 0;
